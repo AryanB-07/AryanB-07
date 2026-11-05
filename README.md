@@ -3,9 +3,9 @@
   <img src="assets/hero.svg" alt="aryan bhan. cs at georgia tech, ai and theory." width="100%">
 </picture>
 
-working on [redacted]. okay fine, sacron. data, fairness, ai, that kind of thing.
+Founding Sacron, a startup working on fairness in AI systems and the data behind them.
 
-also federated learning. vip on it soon.
+Researching federated learning and machine unlearning, previously at Cambridge's CaMLSys lab and continuing at Georgia Tech.
 
 <p>
   <picture>
@@ -18,4 +18,4 @@ also federated learning. vip on it soon.
   </picture>
 </p>
 
-[linkedin](https://www.linkedin.com/in/aryan-bhan-110734316/) · [email](mailto:abhan7@gatech.edu)
+[LinkedIn](https://www.linkedin.com/in/aryan-bhan-110734316/) · [Email](mailto:abhan7@gatech.edu)
