@@ -27,4 +27,9 @@ Built [Serve Analyzer](https://github.com/AryanB-07/Serve-Analyzer), a tennis se
   </picture>
 </a>
 
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/route.svg">
+  <img src="assets/route.svg" alt="a dotted world map with a route from dubai to atlanta" width="100%">
+</picture>
+
 [LinkedIn](https://www.linkedin.com/in/aryan-bhan-110734316/) · [Email](mailto:abhan7@gatech.edu)
