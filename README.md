@@ -31,7 +31,7 @@
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/line-serve.svg">
-  <img src="assets/line-serve.svg" alt="Built Serve Analyzer, a tennis serve coach. Upload a video and it tracks your pose frame by frame, scores your joint angles at each phase of the serve, and gives plain-English feedback. Working on releasing public beta version..." width="100%">
+  <img src="assets/line-serve.svg" alt="Built Serve Analyzer, a tennis serve coach. Working on releasing public beta version..." width="100%">
 </picture>
 
 <a href="https://github.com/AryanB-07/Serve-Analyzer">
