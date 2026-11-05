@@ -18,7 +18,7 @@ Researching Trustworthy ML, previously at Cambridge's CaMLSys lab and continuing
   </picture>
 </p>
 
-Built [Serve Analyzer](https://github.com/AryanB-07/Serve-Analyzer), a tennis serve coach. Upload a video and it tracks your pose frame by frame, scores your joint angles at each phase of the serve, and gives plain-English feedback. Python, MediaPipe, FastAPI, Postgres, React and Docker.
+Built [Serve Analyzer](https://github.com/AryanB-07/Serve-Analyzer), a tennis serve coach. Upload a video and it tracks your pose frame by frame, scores your joint angles at each phase of the serve, and gives plain-English feedback. Working on releasing public beta version...
 
 <a href="https://github.com/AryanB-07/Serve-Analyzer">
   <picture>
