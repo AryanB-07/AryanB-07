@@ -18,4 +18,9 @@ Researching Trustworthy ML, previously at Cambridge's CaMLSys lab and continuing
   </picture>
 </p>
 
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/contributions.svg">
+  <img src="assets/contributions.svg" alt="contribution graph for the last year" width="100%">
+</picture>
+
 [LinkedIn](https://www.linkedin.com/in/aryan-bhan-110734316/) · [Email](mailto:abhan7@gatech.edu)
