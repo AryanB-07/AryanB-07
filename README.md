@@ -3,14 +3,20 @@
   <img src="assets/hero.svg" alt="aryan bhan. cs at georgia tech, ai safety." width="100%">
 </picture>
 
-Co-Founding Sacron, a startup working on fairness in AI systems and the data behind them.
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/line-sacron.svg">
+  <img src="assets/line-sacron.svg" alt="Co-Founding Sacron, a startup working on fairness in AI systems and the data behind them." width="100%">
+</picture>
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/trace.svg">
   <img src="assets/trace.svg" alt="a magnifying glass follows a trace back through a graph and flags the source" width="100%">
 </picture>
 
-Researching Trustworthy ML, previously at Cambridge's CaMLSys lab and continuing at Georgia Tech.
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/line-research.svg">
+  <img src="assets/line-research.svg" alt="Researching Trustworthy ML, previously at Cambridge&#39;s CaMLSys lab and continuing at Georgia Tech." width="100%">
+</picture>
 
 <p>
   <picture>
@@ -23,7 +29,10 @@ Researching Trustworthy ML, previously at Cambridge's CaMLSys lab and continuing
   </picture>
 </p>
 
-Built [Serve Analyzer](https://github.com/AryanB-07/Serve-Analyzer), a tennis serve coach. Upload a video and it tracks your pose frame by frame, scores your joint angles at each phase of the serve, and gives plain-English feedback. Working on releasing public beta version...
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/line-serve.svg">
+  <img src="assets/line-serve.svg" alt="Built Serve Analyzer, a tennis serve coach. Upload a video and it tracks your pose frame by frame, scores your joint angles at each phase of the serve, and gives plain-English feedback. Working on releasing public beta version..." width="100%">
+</picture>
 
 <a href="https://github.com/AryanB-07/Serve-Analyzer">
   <picture>
