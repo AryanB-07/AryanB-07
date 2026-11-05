@@ -18,9 +18,13 @@ Researching Trustworthy ML, previously at Cambridge's CaMLSys lab and continuing
   </picture>
 </p>
 
-<picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/contributions.svg">
-  <img src="assets/contributions.svg" alt="contribution graph for the last year" width="100%">
-</picture>
+Built [Serve Analyzer](https://github.com/AryanB-07/Serve-Analyzer), a tennis serve coach. Upload a video and it tracks your pose frame by frame, scores your joint angles at each phase of the serve, and gives plain-English feedback. Python, MediaPipe, FastAPI, Postgres, React and Docker.
+
+<a href="https://github.com/AryanB-07/Serve-Analyzer">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/serve.svg">
+    <img src="assets/serve.svg" alt="a tracked skeleton serving, synced to joint-angle curves" width="100%">
+  </picture>
+</a>
 
 [LinkedIn](https://www.linkedin.com/in/aryan-bhan-110734316/) · [Email](mailto:abhan7@gatech.edu)
