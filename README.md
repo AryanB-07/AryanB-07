@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/hero.svg">
-  <img src="assets/hero.svg" alt="aryan bhan. cs at georgia tech, ai and theory." width="100%">
+  <img src="assets/hero.svg" alt="aryan bhan. cs at georgia tech, ai safety." width="100%">
 </picture>
 
 Co-Founding Sacron, a startup working on fairness in AI systems and the data behind them.
