@@ -13,8 +13,8 @@ Researching Trustworthy ML, previously at Cambridge's CaMLSys lab and continuing
     <img src="assets/federated.svg" alt="a federated learning round where one client is removed" width="49%">
   </picture>
   <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/forget.svg">
-    <img src="assets/forget.svg" alt="a pixel cat being unlearned by a model" width="49%">
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/dampening.svg">
+    <img src="assets/dampening.svg" alt="a grid of network weights where those important to the forget set are dampened" width="49%">
   </picture>
 </p>
 
