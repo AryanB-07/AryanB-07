@@ -42,6 +42,11 @@
 </a>
 
 <picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/line-home.svg">
+  <img src="assets/line-home.svg" alt="Grew up in Dubai, recently moved to Atlanta." width="100%">
+</picture>
+
+<picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/route.svg">
   <img src="assets/route.svg" alt="a dotted world map with a route from dubai to atlanta" width="100%">
 </picture>
