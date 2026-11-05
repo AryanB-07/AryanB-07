@@ -5,6 +5,11 @@
 
 Co-Founding Sacron, a startup working on fairness in AI systems and the data behind them.
 
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/trace.svg">
+  <img src="assets/trace.svg" alt="a magnifying glass follows a trace back through a graph and flags the source" width="100%">
+</picture>
+
 Researching Trustworthy ML, previously at Cambridge's CaMLSys lab and continuing at Georgia Tech.
 
 <p>
