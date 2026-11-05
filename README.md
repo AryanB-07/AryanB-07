@@ -10,7 +10,7 @@ Researching federated learning and machine unlearning, previously at Cambridge's
 <p>
   <picture>
     <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/federated.svg">
-    <img src="assets/federated.svg" alt="a federated learning round where one client gets erased" width="49%">
+    <img src="assets/federated.svg" alt="a federated learning round where one client is removed" width="49%">
   </picture>
   <picture>
     <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/forget.svg">
