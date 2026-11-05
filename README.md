@@ -3,9 +3,9 @@
   <img src="assets/hero.svg" alt="aryan bhan. cs at georgia tech, ai and theory." width="100%">
 </picture>
 
-Founding Sacron, a startup working on fairness in AI systems and the data behind them.
+Co-Founding Sacron, a startup working on fairness in AI systems and the data behind them.
 
-Researching federated learning and machine unlearning, previously at Cambridge's CaMLSys lab and continuing at Georgia Tech.
+Researching Trustworthy ML, previously at Cambridge's CaMLSys lab and continuing at Georgia Tech.
 
 <p>
   <picture>
